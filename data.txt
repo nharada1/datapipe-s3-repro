@@ -1,0 +1,10 @@
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/ground_transportation_station/ground_transportation_station_117/ground_transportation_station_117_19_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/waste_disposal/waste_disposal_69/waste_disposal_69_2_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/solar_farm/solar_farm_211/solar_farm_211_0_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/barn/barn_162/barn_162_0_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/golf_course/golf_course_72/golf_course_72_3_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/parking_lot_or_garage/parking_lot_or_garage_225/parking_lot_or_garage_225_4_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/oil_or_gas_facility/oil_or_gas_facility_151/oil_or_gas_facility_151_1_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/recreational_facility/recreational_facility_678/recreational_facility_678_2_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/fire_station/fire_station_66/fire_station_66_7_msrgb.jpg
+s3://spacenet-dataset/Hosted-Datasets/fmow/fmow-rgb/val/fire_station/fire_station_71/fire_station_71_1_msrgb.jpg
